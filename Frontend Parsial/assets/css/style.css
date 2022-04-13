@@ -1,0 +1,25 @@
+body{
+    background-color: #000000;
+}
+
+.logo{
+    margin: 300px 300px 75px;
+	align-content: center;
+}
+
+.logoabout img{
+    width: 414px;
+    height: 108px;
+}
+
+p{
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.kontak{
+    position: relative;
+    top: 230px;
+    left: 30px;
+}
+

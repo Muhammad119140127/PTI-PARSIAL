@@ -1,0 +1,1 @@
+![The San Juan Mountains are beautiful!](/assets/img/logo.png "San Juan Mountains")
